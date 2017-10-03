@@ -1,28 +1,27 @@
 * {
   text-align: center;
+  font-family: Verdana;
 }
 
 body {
   background-color: black;
 }
 
-img, video {
-  display: block;
-  align-self: center;
-}
-
 h1 {
-  font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
 }
 
 h2 {
-  font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
   color: white;
+}
+
+p {
+  font-size: 20px;
+  color: gray;
 }
 
 a {
@@ -36,4 +35,8 @@ a:hover, a:active {
 
 a:visited {
   color: Aquamarine;
+}
+
+#cre {
+  text-align: right;
 }
