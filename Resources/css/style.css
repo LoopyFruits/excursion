@@ -6,6 +6,11 @@ body {
   background-color: black;
 }
 
+img, video {
+  display: block;
+  align-self: center;
+}
+
 h1 {
   font-family: Verdana;
   font-weight: normal;
